@@ -11,7 +11,7 @@ function TopComponent() {
                 <Col xs={12} md={6} className='section-top-left'>
                   <img className='img-fluid' src='/assets/mobile.png' />
                 </Col>
-                <Col xs={12} md={6} className='section-top-right'>
+                <Col xs={12} md={6} className='section-top-right shadow'>
                   <div className='plate-img-container'></div>
                   <h6>FOODO</h6>
                   <h2>Get Your Food In</h2>
